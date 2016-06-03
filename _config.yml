@@ -9,7 +9,7 @@ domain: "https://swcarpentry.github.io/python-novice-gapminder"
 repo: "https://github.com/swcarpentry/python-novice-gapminder"
 
 # Root URL for lesson below domain.
-root: "/python-novice-gapminder"
+root: "/imported-python-novice-gapminder"
 
 # Overall lesson title.
 title: "Programming in Python"
